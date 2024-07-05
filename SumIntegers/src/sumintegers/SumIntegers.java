@@ -1,5 +1,6 @@
-import javax.swing.JOptionPane;
+//questao 1
 
+import javax.swing.JOptionPane;
 public class SumIntegers {
     public static void main(String[] args) {
     
